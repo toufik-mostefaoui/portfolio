@@ -1,5 +1,5 @@
 import { motion } from "framer-motion";
-import { Code, Server, Database, Wrench, Boxes, Users, Phone } from "lucide-react";
+import { Code, Server, Database, Wrench, Boxes, Users } from "lucide-react";
 
 export default function Skills() {
   const skillCategories = [
