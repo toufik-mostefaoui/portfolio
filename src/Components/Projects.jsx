@@ -2,7 +2,7 @@ import { motion } from "framer-motion";
 import { ExternalLink, Calendar, Tag} from "lucide-react"; 
 import { FaGithub } from 'react-icons/fa';
 import ProjectCarousel from "./ProjectCarousel";
-import triphubdzlanding from "../assets/projects/TripHubDZ/triphubdz-landing.png";
+// import triphubdzlanding from "../assets/projects/TripHubDZ/triphubdz-landing.png";
 import silaLandingPage from "../assets/projects/silaDz/landig page.png";
 import silaDashboard from "../assets/projects/silaDz/dashboard page.png";
 import silaMobile from "../assets/projects/silaDz/silaMobile.png";
@@ -10,20 +10,20 @@ import silaLoginPage from "../assets/projects/silaDz/login page.png";
 import geoalert from "../assets/projects/GeoAlert/GeoAlertHome.png";
 import eCommerceApp from "../assets/projects/E-commerceApp/image (4).png";
 import tawaf from "../assets/projects/Tawaf/Screenshot 2026-06-09 163929.png"
-import landingagence from "../assets/projects/TripHubDZ/landing-agence.png";
-import searchflight from "../assets/projects/TripHubDZ/search-flight.png";
-import newdashboard from "../assets/projects/darlokman/newdashboard.png"
-import newlogin from "../assets/projects/darlokman/newlogin.png"
-import chat from "../assets/projects/darlokman/chat.png"
-import logincode from "../assets/projects/Codegrad/logincode.png"
-import dashboardcode from "../assets/projects/Codegrad/dashboardcode.png"
-import loginhora from "../assets/projects/horapay/loginhora.jpg"
-import emploi from "../assets/projects/horapay/emploi.jpg"
-import consultation from "../assets/projects/horapay/consultation.jpg"
-import dash from "../assets/projects/assirem/dash.png"
-import hero from "../assets/projects/portfoliov1/hero.png"
-import dashboard_loan from "../assets/projects/loan/dashboard.png"
-import result from "../assets/projects/loan/result.png"
+// import landingagence from "../assets/projects/TripHubDZ/landing-agence.png";
+// import searchflight from "../assets/projects/TripHubDZ/search-flight.png";
+// import newdashboard from "../assets/projects/darlokman/newdashboard.png"
+// import newlogin from "../assets/projects/darlokman/newlogin.png"
+// import chat from "../assets/projects/darlokman/chat.png"
+// import logincode from "../assets/projects/Codegrad/logincode.png"
+// import dashboardcode from "../assets/projects/Codegrad/dashboardcode.png"
+// import loginhora from "../assets/projects/horapay/loginhora.jpg"
+// import emploi from "../assets/projects/horapay/emploi.jpg"
+// import consultation from "../assets/projects/horapay/consultation.jpg"
+// import dash from "../assets/projects/assirem/dash.png"
+// import hero from "../assets/projects/portfoliov1/hero.png"
+// import dashboard_loan from "../assets/projects/loan/dashboard.png"
+// import result from "../assets/projects/loan/result.png"
 export default function Projects() {
   const projects = [
     {
